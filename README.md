@@ -1,9 +1,9 @@
-# Időjárás Monitorozó Alkalmazás
+### Elérhetőség
+    Kövesdi Ákos
+    Telefon: 06702766286
+    Email: kovesdiakos7@gmail.com
 
-## Elérhetőség
-Kövesdi Ákos
-Telefon: 06702766286
-Email: kovesdiakos7@gmail.com
+# Időjárás Monitorozó Alkalmazás
 
 Ez egy Laravel alapú alkalmazás, amely városok időjárási adatait gyűjti és jeleníti meg.
 
