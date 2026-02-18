@@ -1,5 +1,10 @@
 # Időjárás Monitorozó Alkalmazás
 
+## Elérhetőség
+Kövesdi Ákos
+Telefon: 06702766286
+Email: kovesdiakos7@gmail.com
+
 Ez egy Laravel alapú alkalmazás, amely városok időjárási adatait gyűjti és jeleníti meg.
 
 ## Funkciók
@@ -9,7 +14,7 @@ Ez egy Laravel alapú alkalmazás, amely városok időjárási adatait gyűjti �
 - API végpont: `/api/weather/{id}`
 
 ## Telepítés
-1. `git clone [link]`
+1. `git clone https://github.com/Akreez/WeatherMonitor.git`
 2. `composer install`
 3. `cp .env.example .env`
 4. `php artisan key:generate`
